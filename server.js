@@ -6,7 +6,7 @@ const cors = require('cors');
 // ═══════════════════════════════════════════════════════════
 
 const PORT = process.env.PORT || 5000;
-const API_KEY = process.env.API_KEY || 'riadtoken';
+const API_KEY = process.env.API_KEY || 'sujontoken';
 const TOKEN_MAX_AGE = 200; // seconds
 const CLEANUP_INTERVAL = 15; // seconds
 
