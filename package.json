@@ -1,7 +1,7 @@
 {
   "name": "ivac-token-server",
   "version": "1.0.0",
-  "description": "IVAC Turnstile Captcha Token Server",
+  "description": "IVAC Captcha Token Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
